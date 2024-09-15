@@ -12,6 +12,8 @@
 
 - Engineered robust backend systems to seamlessly integrate mall data, including shop details, shops branches, offers... etc.
 
+- Integrated navigation data with navigation part team to ensure great correspondence between backend & navigation team.
+  
 - Integrated 3rd party plugins such as notifications, SMS | Whatsapp messages providers and others.
   
 - Maintained continuous monitoring and optimization of backend performance, ensuring responsiveness and
