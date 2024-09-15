@@ -1,6 +1,8 @@
 # InMap 🗺️
 
+<p align="center">
 <img src="assets/inmap-logo.png" alt="Project Screenshot" width="475">
+</p>
 
 # Description
 **_InMap_** redefines mall navigation on your mobile device. Discover malls, explore shops with detailed information and exclusive offers, and easily find parking and entrances. The highlight? Effortless indoor navigation, guiding you from one shop to another with precision, whether by stairs or elevators. With a suite of features tailored for convenience, InMap transforms every shopping trip into a seamless experience.InMap redefines mall navigation on your mobile device. Discover malls, explore shops with detailed information and exclusive offers, and easily find parking and entrances. The highlight? Effortless indoor navigation, guiding you from one shop to another with precision, whether by stairs or elevators. With a suite of features tailored for convenience, InMap transforms every shopping trip into a seamless experience.
