@@ -34,25 +34,5 @@ scalability to accommodate a growing user base.
     - Auto scaling.
     - Elastic Beanstalk.
 
-
-
-
-
-
-
-
-## Some Mobile App Screenshots
-  <img src="assets/homepage.png" alt="Project Screenshot" width="280">
-  <img src="assets/mall.png" alt="Project Screenshot" width="280">
-  <img src="assets/select-shopbranch.png" alt="Project Screenshot" width="280">
-  <img src="assets/shopbranch.png" alt="Project Screenshot" width="280">
-  <img src="assets/select-routing-start-end.png" alt="Project Screenshot" width="280">
-  <img src="assets/routing.png" alt="Project Screenshot" width="280">
-  <img src="assets/malls&shops-search" alt="Project Screenshot" width="280">
-  <img src="assets/offers.png" alt="Project Screenshot" width="280">
-
-## Some Dashboard Screenshots
-  <img src="assets/malls-dashboard.png" alt="Project Screenshot" width="280">
-  <img src="assets/shops-dashboard.png" alt="Project Screenshot" width="280">
-  <img src="assets/branches-dashboard.png" alt="Project Screenshot" width="280">
-  
+## Preview
+Cannot be shared due to Non-Disclosure Agreement with the client.
